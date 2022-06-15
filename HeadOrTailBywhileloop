@@ -1,0 +1,4 @@
+  headCount=0
+  tailCount=0
+ for(( i=0))
+	
